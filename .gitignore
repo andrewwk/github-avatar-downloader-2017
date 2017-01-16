@@ -51,6 +51,9 @@ jspm_packages
 # Yarn Integrity file
 .yarn-integrity
 
+# Env FIle
+.env
+
 
 # OS generated files #
 ######################
