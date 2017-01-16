@@ -1,0 +1,23 @@
+{
+  "name": "github-avatar-downloader",
+  "version": "1.0.0",
+  "description": "## Problem Statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewwk/github-avatar-downloader-2017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewwk/github-avatar-downloader-2017/issues"
+  },
+  "homepage": "https://github.com/andrewwk/github-avatar-downloader-2017#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
