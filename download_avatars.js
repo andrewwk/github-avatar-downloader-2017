@@ -10,11 +10,9 @@ const checkForArguments = (repoOwner, repoName) => {
   const err = new Error("No repo name/owner specified!!!");
   if (!repoOwner || !repoName) {
     throw err;
-    // throw console.error("No repo name/owner specified!!!");
   };
   if (repoOwner == "" || repoName == "") {
     throw err;
-    // throw console.error("No repo name/owner specified!!!");
   };
 };
 
