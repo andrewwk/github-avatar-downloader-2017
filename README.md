@@ -1,7 +1,8 @@
 # GitHub Avatar Downloader
 
 ### Description
-A simple program that downloads images from a Github url, by utilizing Request and Filestream.
+
+A simple program that introduces the Request Library and Filestream.
 
 ### Problem Statement
 
